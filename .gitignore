@@ -36,3 +36,4 @@ Thumbs.db
 dist
 node_modules
 .tmp
+vendor

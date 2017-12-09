@@ -6,9 +6,9 @@ env:
 sudo: false
 
 rvm:
-  - "2.1.0"
+  - "2.4"
 node_js:
-  - "0.10"
+  - "4"
 
 branches:
   only:
